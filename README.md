@@ -2,6 +2,8 @@
 
 Une application web simple et élégante pour consulter la météo en temps réel de n'importe quelle ville dans le monde.
 
+> ⚠️ **Projet en cours d'amélioration** - Cette mini-station météo est fonctionnelle mais plusieurs améliorations sont prévues pour enrichir l'expérience utilisateur.
+
 ## 📋 Description
 
 Cette mini-station météo permet d'obtenir instantanément les conditions météorologiques actuelles d'une ville en utilisant des API publiques gratuites. L'interface épurée affiche la température, les conditions climatiques, l'humidité, la vitesse du vent et les coordonnées GPS.
@@ -69,6 +71,22 @@ Essayez de rechercher :
 - Londres
 - Sydney
 
+## 🚧 Améliorations prévues
+
+### Interface utilisateur
+- [ ] Icônes météo dynamiques selon les conditions
+- [ ] Thème sombre/clair avec bouton de bascule
+- [ ] Animations lors du changement de ville
+
+### Fonctionnalités
+- [ ] Géolocalisation automatique de l'utilisateur
+- [ ] Prévisions sur 7 jours
+- [ ] Historique des villes récemment consultées
+- [ ] Système de favoris pour sauvegarder des villes
+
+
+N'hésitez pas à suggérer d'autres améliorations via les issues GitHub !
+
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
@@ -79,7 +97,7 @@ Ce projet est un projet éducatif libre d'utilisation.
 
 ## 👤 Auteur
 
-Projet réalisé dans le cadre d'un exercice de développement web.
+Projet réalisé dans le cadre d'un exercice de développement web chez Ada Tech School
 
 ---
 
